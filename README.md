@@ -1,49 +1,30 @@
-<!-- Your title -->
-## Hello, welcome to my GitHub profile! 👋
-I'm Alejandro, passionate about programming. In this space, you will be able to find a variety of projects and contributions that reflect my skills and knowledge. Explore, learn and feel free to connect!
+# 💻 ¡Hola! Soy Alejandro 👋
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+### 🌟 Sobre mí
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidalejandroherrera/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alejandromarmilich@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:davidalejandroherrera@outlook.com)
+- 🛠️ **Estudiante de desarrollo de software** explorando el mundo de la programación y las aplicaciones.
+- 🎓 Actualmente cursando un **curso de Java FullStack en Udemy**, con un avance del 40%.
+- 📱 Tengo experiencia creando aplicaciones para Android en Android Studio, utilizando **Java** y **Kotlin**, con interfaces diseñadas en XML siguiendo patrones como **MVC** o **ViewBinding**. Aunque no soy un experto, sigo aprendiendo.
+- 🎓 Graduado como **Técnico en Infraestructura Informática**.
+- 🌐 Con experiencia en la administración de sitios web con **WordPress** en Hostinger.
 
-&nbsp;
+### 🚀 Mis habilidades
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+- **Lenguajes de programación**: Java, HTML, CSS, JavaScript (fundamentos).
+- **Herramientas y tecnologías**: Android Studio, Visual Studio Code, ViewBinding, WordPress.
+- **Conocimientos básicos**: Git, GitHub.
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-2357841-2016549.png" />
+### 🌱 Actualmente aprendiendo
 
+- Java, HTML, CSS, y JavaScript como parte de mi curso de FullStack.
+- Mejores prácticas de desarrollo y diseño de aplicaciones móviles.
 
-- 🌱 I am currently learning web development.
-- 💬 You can ask me about android apps.
+### 📫 Contáctame
 
-**Languages and Tools:** 
+- 🌐 [Mi sitio web](https://xdev-arg.web.app/).
+- 💼 [Mi LinkedIn](https://linkedin.com/in/alejandrohar).
+- 💻 [Mi GitHub](https://github.com/alejandrohar).
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
+### 📈 Estadísticas
 
-</p>
-
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alejandroHAR&show_icons=true&theme=radical)
